@@ -5,6 +5,7 @@ RENCANA KONTEN BANGUN
   #sanang"
 - Usaha
 - Flutter
+  -Andoid Studio
 - Membuat aplikasi sederhana
 - Dan belajar Framework
 - Belajar data Struktur
