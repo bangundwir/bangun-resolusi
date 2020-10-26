@@ -5,3 +5,4 @@ RENCANA KONTEN BANGUN
 - Flutter
 - Membuat aplikasi sederhana
 - Dan belajar Framework
+- Belajar data Struktur
