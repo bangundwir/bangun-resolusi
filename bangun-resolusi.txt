@@ -4,3 +4,4 @@ BANGUN RESOLUSI
 - Dan Belajar Web 
 - Ingin mempelajari python
 - Membuat Bot telegram
+- Membuat project Aplikasi
