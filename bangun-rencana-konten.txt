@@ -1,10 +1,12 @@
 RENCANA KONTEN BANGUN
 
 - Membuat Podcast
+  #tema kehidupan
+  #sanang"
 - Usaha
 - Flutter
   -Andoid Studio
 - Membuat aplikasi sederhana
 - Dan belajar Framework
-  ^Belajar Laravel
-
+- Belajar data Struktur
+- Java Script
