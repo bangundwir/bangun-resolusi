@@ -3,3 +3,5 @@ RENCANA KONTEN BANGUN
 - Membuat Podcast
 - Usaha
 - Flutter
+- Membuat aplikasi sederhana
+- Dan belajar Framework
