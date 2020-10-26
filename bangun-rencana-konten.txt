@@ -1,6 +1,8 @@
 RENCANA KONTEN BANGUN
 
 - Membuat Podcast
+  #tema kehidupan
+  #sanang"
 - Usaha
 - Flutter
 - Membuat aplikasi sederhana
